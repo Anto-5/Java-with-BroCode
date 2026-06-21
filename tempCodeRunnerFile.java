@@ -1,0 +1,1 @@
+Book[] books = {book1, book2, book3};
